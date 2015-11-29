@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MapboxDemo</string>
+    <string name="mapbox_api_token">pk.eyJ1IjoiNGszciIsImEiOiJmYzFmMzhlZTk4OGE3N2FiY2Q5YzBmNjUxZTdjZmE1NyJ9.Bi9Nll2UJyjJwcpJNdjn3g</string>
+    <string name="search_mapbox">Search Mapbox</string>
+    <string name="location">Location</string>
+    <string name="map_style">Map Style</string>
+</resources>
